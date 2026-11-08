@@ -47,7 +47,7 @@ I am always interested in learning, sharing ideas, and connecting with people wh
 ---
 
 <div align="center">
-<sub>© | AERO AVIATION</sub>
+<sub>© AERO AVIATION</sub>
 </div>
 
 <hr></hr>
