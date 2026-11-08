@@ -1,18 +1,60 @@
-<div align="center" width="50">
+ 
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+# ✈️ M. Mousez
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+### AVIATION SPECIALIST | FOUNDER OF AERO AVIATION
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+<img src="https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1200&q=85" width="100%" alt="Aircraft flying above the clouds"/>
 
-</details>
+**Passionate about aviation, innovation, and the future of the aviation industry.**
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+[![AERO AVIATION](https://img.shields.io/badge/AERO%20AVIATION-Official%20Brand-243B53?style=for-the-badge&logo=airplane&logoColor=white)](#)
+[![Aviation](https://img.shields.io/badge/Industry-Aviation-15191F?style=for-the-badge)](#)
+[![UAE](https://img.shields.io/badge/Based%20in-UAE-006C35?style=for-the-badge)](#)
+
+</div>
+
+---
+
+## 👨‍✈️ About Me
+
+Hello, and welcome to my GitHub profile!
+
+I'm **M. Mousez**, an Aviation Specialist with a strong interest in aviation operations, aircraft, airline management, and the continuous development of the aviation industry.
+
+
+As the founder of **AERO AVIATION**, I bring my passion for aviation into a brand that celebrates the aviation lifestyle and the people behind it.
+
+"IT'S MORE THAN, WHAT YOU WEAR"
+
+AERO was created for a community connected by curiosity, ambition, and a love of aviation. From the people who work in the industry to the families who dream about it, we bring that spirit into everyday clothing.
+
+
+## 🌍 My Vision
+
+To contribute to the aviation industry, connect with people who share the same passion, and support the next generation of aviation professionals.
+
+I am always interested in learning, sharing ideas, and connecting with people who believe in the future of aviation.
+
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Website](https://img.shields.io/badge/AERO%20AVIATION-Visit%20Website-243B53?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_URL)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=243B53&label=PROFILE+VIEWS)
+
+**THE SKY IS NOT THE LIMIT. IT'S THE BEGINNING.** ✈️
+
+</div>
+
+---
+
+<div align="center">
+<sub>© M. Mousez | AERO AVIATION</sub>
 </div>
 
 <hr></hr>
